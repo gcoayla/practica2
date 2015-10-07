@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444225242 source:c:\users\gonzalo\desktop\practica ipo\multiplicacion de matrices\mult.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
